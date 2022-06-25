@@ -1,0 +1,9 @@
+{
+    "name" : "saleh097/global-counter",
+    "description": "just a simple php package for practicing purpose",
+    "autoload": {
+        "psr-4": {
+            "GlobalCounter\\" : "src/"
+        }
+    }   
+}
